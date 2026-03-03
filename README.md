@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on my final year projects at **NIBM**.
 - 🌱 I’m currently deep-diving into **Advanced Machine Learning** and **Deep Learning**.
 - ⚡ I love bridging the gap between **Data Science** and **Full-Stack Development**.
-- 💬 Ask me about **Python, React, or AI ethics**.
 
 ---
 
