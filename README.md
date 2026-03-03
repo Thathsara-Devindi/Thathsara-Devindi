@@ -29,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thathsara-Devindi&show_icons=true&theme=radical" alt="Thathsara's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thathsara-Devindi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thathsara-Devindi&show_icons=true&theme=dark" alt="Thathsara GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thathsara-Devindi&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
