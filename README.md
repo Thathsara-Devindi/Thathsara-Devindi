@@ -33,6 +33,6 @@
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [www.linkedin.com/in/thathsara-manamperi-388626315]
-- 📧 **Email:** [thathsaradevindi1@gmail.com]
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/thathsara-manamperi-388626315)
+- 📧 **Email:** [thathsaradevindi1@gmail.com](mailto:thathsaradevindi1@gmail.com)
 - 🌐 **Portfolio:** [Coming Soon]
